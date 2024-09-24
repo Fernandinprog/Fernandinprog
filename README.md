@@ -44,7 +44,7 @@
 
 ## Contato ##
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandosandesmoura@gmail.com)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/fernandos2#7249)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fernando__mour4/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Fernandinprog&icon=0&color=0)](https://visitcount.itsvg.in)
