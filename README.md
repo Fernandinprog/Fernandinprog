@@ -40,7 +40,7 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Fernandinprog&theme=dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=Fernandinprog&theme=dark&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandinprog&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![fernandinprog's Stats](https://github-readme-stats.vercel.app/api?username=fernandinprog&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![fernandinprog's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandinprog&theme=vue-dark&hide_border=true)![fernandinprog's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandinprog&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Contato ##
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandosandesmoura@gmail.com)
