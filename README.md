@@ -7,7 +7,7 @@
 ### Sobre min ###
 - 👋 Olá, meu nome é **Fernando**
 - 👀 Amo programação e estou sempre me aventurando em aprender.
-- 🌱 Atualmente estou aprendendo **JavaScript**, **Typescript**, **Next** e **React** com **MySQL**
+- 🌱 Atualmente estou aprendendo **JAVA**, **Spring Boot, **JavaScript**, **Typescript**, **Next** e **React** com **MySQL**, **Postgresql**
 - 💞️ Estou procurando colaborar em projetos que me ajudem a aprender mais.
 - 🕹️ Meu hobbye é jogar jogos estilo RPG 🤓 e ler livros de fantasia 📚
 
